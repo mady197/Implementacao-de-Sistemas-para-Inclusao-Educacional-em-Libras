@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Implementação de Sistemas para Inclusão Educacional em Libras</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0057A0;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #0057A0;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #0057A0;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Implementação de Sistemas para Inclusão Educacional em Libras</h1>
+    </header>
+
+    <nav>
+        <a href="#biblioteca">Biblioteca de Vídeos</a>
+        <a href="#traducoes">Traduções para Libras</a>
+        <a href="#missao">Nossa Missão</a>
+    </nav>
+
+    <section id="biblioteca">
+        <h2>Biblioteca de Vídeos</h2>
+        <p>Desenvolvemos uma ampla biblioteca de vídeos educacionais em Libras, cobrindo diversos temas e disciplinas para facilitar o acesso ao conhecimento.</p>
+    </section>
+
+    <section id="traducoes">
+        <h2>Traduções para Libras</h2>
+        <p>Nossos materiais escritos são traduzidos e adaptados para Libras, garantindo que todas as pessoas possam aprender em sua língua principal.</p>
+    </section>
+
+    <section id="missao">
+        <h2>Nossa Missão</h2>
+        <p>Promovemos a inclusão e acessibilidade educacional para pessoas surdas, oferecendo conteúdos de qualidade e igualdade no aprendizado.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 - Sistema de Inclusão Educacional em Libras</p>
+    </footer>
+</body>
+</html>
